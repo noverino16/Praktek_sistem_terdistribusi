@@ -1,0 +1,5 @@
+com\noverino\matakuliah\MatakuliahApplication.class
+com\noverino\matakuliah\entity\Matakuliah.class
+com\noverino\matakuliah\Repository\MatakuliahRepository.class
+com\noverino\matakuliah\controller\MatakuliahController.class
+com\noverino\matakuliah\service\MatakuliahService.class
